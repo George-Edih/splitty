@@ -1,0 +1,2 @@
+# splitty
+litty app idea 
